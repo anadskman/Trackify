@@ -76,6 +76,8 @@ Track what music is playing on the system in real time and display it in a minim
 * Clean exit behavior (hidden window instead of closing)
 * Shows Album Cover
 
+<img width="865" height="1009" alt="Screenshot 2026-06-14 214644" src="https://github.com/user-attachments/assets/4984a823-0048-4a54-acb6-491ba31e0fb2" />
+
 ## Current State
 
 ### Working MVP
@@ -89,7 +91,8 @@ Track what music is playing on the system in real time and display it in a minim
 * System tray support
 * Styled Fluent UI
 
-<img width="865" height="1009" alt="Screenshot 2026-06-14 214644" src="https://github.com/user-attachments/assets/4984a823-0048-4a54-acb6-491ba31e0fb2" />
+<img width="515" height="210" alt="image" src="https://github.com/user-attachments/assets/fb7d7ad8-2d83-4d22-b5a8-f13f429d58ab" />
+
 
 ---
 
