@@ -91,4 +91,32 @@ Track what music is playing on the system in real time and display it in a minim
 
 <img width="865" height="1009" alt="Screenshot 2026-06-14 214644" src="https://github.com/user-attachments/assets/4984a823-0048-4a54-acb6-491ba31e0fb2" />
 
+---
 
+## How to Run
+
+Install **.NET SDK**
+   [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download)
+
+Clone the repo:
+
+```
+git clone https://github.com/anadskman/Trackify.git
+```
+Locate to the folder
+
+```
+cd Trackify
+```
+
+Restore dependencies:
+
+```
+dotnet restore
+```
+
+Run the app:
+
+```
+dotnet run
+```
