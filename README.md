@@ -21,6 +21,7 @@ The latest Windows version can be downloaded from the **Releases** page.
 3. Run `Trackify.exe`
 
 **Note:** You may have to download .Net sdk
+**Note 2:** To see the popup you must start playing music from either spotify or youtube music
 
 ## Setup
 
