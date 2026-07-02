@@ -12,6 +12,14 @@ Track what music is playing on the system in real time and display it in a minim
 
 ---
 
+## Download
+
+The latest Windows version can be downloaded from the **Releases** page.
+
+1. Download the latest `Trackify-v1.0.0-win-x64.zip`
+2. Extract the ZIP
+3. Run `Trackify.exe`
+
 ## Setup
 
 * Built using **WPF (.NET)**
