@@ -20,6 +20,8 @@ The latest Windows version can be downloaded from the **Releases** page.
 2. Extract the ZIP
 3. Run `Trackify.exe`
 
+**Note:** You may have to download .Net sdk
+
 ## Setup
 
 * Built using **WPF (.NET)**
@@ -101,30 +103,6 @@ The latest Windows version can be downloaded from the **Releases** page.
 
 <img width="515" height="210" alt="image" src="https://github.com/user-attachments/assets/fb7d7ad8-2d83-4d22-b5a8-f13f429d58ab" />
 
-
----
-
-## How to Run
-
-Install **.NET SDK**
-   [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download)
-
-Clone the repo:
-
-```
-git clone https://github.com/anadskman/Trackify.git
-```
-Locate to the folder
-
-```
-cd Trackify
-```
-
-Restore dependencies:
-
-```
-dotnet restore
-```
 
 Run the app:
 
